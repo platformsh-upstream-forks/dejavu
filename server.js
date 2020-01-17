@@ -6,7 +6,7 @@ const url = require('url');
 const fs = require('fs');
 const path = require('path');
 
-const port = 1358;
+const port = 8888;
 const mimeType = {
 	'.ico': 'image/x-icon',
 	'.html': 'text/html',
